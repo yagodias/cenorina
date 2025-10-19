@@ -1,0 +1,15 @@
+.act-button {
+  background-color: rgb(168, 168, 168);
+  border: 2px solid rgb(15, 15, 15);
+  border-radius: 0.2rem;
+  width: 5rem;
+  height: 2rem;
+
+  font-weight: 700;
+  color: black;
+}
+
+.act-button:hover {
+  cursor: pointer;
+  background-color: rgb(112, 112, 112);
+}
